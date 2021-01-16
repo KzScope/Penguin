@@ -1,0 +1,42 @@
+#brand{
+    background-color: #fa804c;
+    border-radius: 5%;
+    color: white;
+    
+}
+#brand2{
+    color: #fa804c;
+}
+#nav-item{
+    color: black;
+}
+
+#toggle{
+    color: black;
+}
+
+.top-img{
+    width: 100%;
+}
+
+.product img{
+    height: 70%;
+}
+
+.info-img{
+    width: 65%;
+    padding: 10px;
+}
+.info-img2{
+max-width: 85%;  
+
+}
+footer{
+    background-color: #fa804c;
+    
+}
+.social{
+    list-style: none;
+    display: flex;
+
+}
